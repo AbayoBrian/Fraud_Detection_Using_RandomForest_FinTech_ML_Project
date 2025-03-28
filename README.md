@@ -4,7 +4,9 @@ The current fraud detection systems in banking rely on manual, rule-based strate
 
            Research objectives 
                General objectives 
+               
 To develop a Random Forest model that can accurately determine if a transaction is fraudulent or not. 
+
                Specific objectives 
                
 The objectives of this research project are: 
